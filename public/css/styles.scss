@@ -1,0 +1,47 @@
+//variables
+
+
+// Sticky navbar offset
+body {
+	padding-top: 20px;
+}
+
+// Top Nav Styles
+.container {
+	.navbar-brand {
+		padding: 13.5px 15px;
+		
+		h3 {
+			display: inline-block;
+			margin: 0;
+			vertical-align: bottom;
+			line-height: .8;
+		}
+		img {
+			display: inline-block;
+		}
+	}
+	.user-icon {
+		font-size: 22px;
+	}
+}
+
+
+//Main content styles
+.main-content {
+	text-align: center;
+	padding: 50px;
+}
+
+
+//Second row styles
+.second-row {
+	text-align: center;
+	background-color: #BE1E2C;
+	padding: 50px;
+	h2 {
+		color: #E9E8E9;
+	}
+}
+
+
